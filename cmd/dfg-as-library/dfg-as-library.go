@@ -1,7 +1,7 @@
 package main
 
 import (
-	dfg "github.com/ozankasikci/dockerfile-generator"
+	dfg "github.com/alekseiapa/dockerfile-maker"
 	"os"
 )
 
