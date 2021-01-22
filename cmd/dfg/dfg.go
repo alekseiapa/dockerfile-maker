@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ozankasikci/dockerfile-generator/cmd/dfg/app"
+	"github.com/alekseiapa/dockerfile-maker/cmd/dfg/app"
 	"os"
 )
 
